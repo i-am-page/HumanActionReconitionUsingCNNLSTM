@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+UCF50/
+test_videos/
+
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
